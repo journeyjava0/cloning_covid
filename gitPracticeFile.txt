@@ -1,1 +1,0 @@
-This is a practice text file for exercise_02.txt
